@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+h1 {
+	color: white;
+	background: green;
+	text-align: center;
+}
+body {
+	text-align: center;
+	background-image:url("Books.jpg");
+}
+a {
+	color: navy;
+}
+table {
+	background-color: white;
+	color: green;
+}
